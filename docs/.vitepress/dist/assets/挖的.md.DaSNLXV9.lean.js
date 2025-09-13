@@ -1,1 +1,0 @@
-import{_ as d,c as o,o as e,ae as a}from"./chunks/framework.Bi6zybwU.js";const g=JSON.parse('{"title":"MD（Markdown）文件简易说明","description":"","frontmatter":{},"headers":[],"relativePath":"挖的.md","filePath":"挖的.md"}'),r={name:"挖的.md"};function n(s,t,c,i,l,h){return e(),o("div",null,[...t[0]||(t[0]=[a("",16)])])}const p=d(r,[["render",n]]);export{g as __pageData,p as default};
